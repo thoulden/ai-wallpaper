@@ -1,6 +1,6 @@
 # That New Background Feeling
 
-You know that feeling when you update your Mac and there is a beautiful new background that makes you stop and think? This program allows you to experience this as often as you want. The idea is that it will automatically generate a beautiful AI-generated wallpaper and update your wallpaper in the background. These backgrounds are set to tell a sptory by default that will evolve naturually -- who knows where it will go? Images are generated using OpenAI's imafge generation API.
+You know that feeling when you update your Mac and there is a beautiful new background that makes you stop and think? This program allows you to experience this as often as you want. The idea is that it will automatically generate a beautiful AI-generated wallpaper and update your wallpaper in the background. These backgrounds are set to tell a story by default that will evolve naturually -- who knows where it will go? Images are generated using OpenAI's image generation API.
 
 ## Features
 
