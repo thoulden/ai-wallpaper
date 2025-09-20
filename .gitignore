@@ -179,3 +179,17 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# --- AI Wallpaper Project ---
+# Secrets and local state
+.env
+last_prompt_state.json
+last_prompt.txt
+wallpaper.log
+
+# Mac-specific files
+.DS_Store
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
