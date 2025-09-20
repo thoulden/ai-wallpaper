@@ -84,6 +84,8 @@ Stop the test when finished:
 - `stop_wallpaper_schedule.sh` — Removes any cron lines containing `wallpaper.py`.
 - `check_wallpaper_schedule.sh` — Shows whether a wallpaper cron entry is active.
 
+### Note
+By default wallpaper.py is set to generate low quality images, since these only cost about 2 cents per run. Setting this to Medium quality increases ot about 4 cents per run.
 ---
 
 ## Automation
